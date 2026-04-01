@@ -24,7 +24,7 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 ## Sales Analysis Reports ##
 
 1. **Sales Growth** <br>
-insight: Total sales increased from **$87.5M (2019) to $598.9M (2021)** <br>
+   insight: Total sales increased from **$87.5M (2019) to $598.9M (2021)** <br>
            Achieved **204% growth** (2021 vs 2020)
            
 2. **Compare actual vs target sales** <br> 

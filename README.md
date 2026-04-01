@@ -47,9 +47,12 @@ Networking and storage products surged from **$51.4 million to $94.7 million** (
 
 **Top and Bottom 5 Sold Products** <br> 
 
-Top 5 Products by Quantity <br>
-Insights: on best-performing products, with **"AQ Master wired x1 Ms"** leading. <br>
-Bottom 5 Products by Quantity <br>
+Top 5 Products by Quantity <br> 
+
+Insights: on best-performing products, with **"AQ Master wired x1 Ms"** leading. <br> 
+
+Bottom 5 Products by Quantity <br> 
+
 Insights: into underperforming products and considerations for adjustments.
 
 **New Products in 2021** <br> 

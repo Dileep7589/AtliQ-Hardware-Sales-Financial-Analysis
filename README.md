@@ -24,12 +24,12 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 ## Sales Analysis Reports ##
 
 **Sales Growth**:<br>
-insight: Total sales increased from $87.5M (2019) to $598.9M (2021)<br>
-           Achieved 204% growth (2021 vs 2020)
+insight: Total sales increased from **$87.5M (2019) to $598.9M (2021)** <br>
+           Achieved **204% growth** (2021 vs 2020)
+           
+**Compare actual vs target sales**: <br> insight: Sales fell short by **~9.2% in 2021**, indicating improvement areas.
 
-**Compare actual sales vs target**: Sales fell short by ~9.2% in 2021, indicating improvement areas.
-
-**Customer-wise**: Customer-wise, the highest sales by Amazon in 2021 are 82.1M.
+**Customer-wise**:the highest sales by **Amazon** in 2021 is **82.1M.**
 **Top 10 Products with Sales Increase**
 Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 

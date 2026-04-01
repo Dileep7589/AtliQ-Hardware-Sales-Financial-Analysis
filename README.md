@@ -13,20 +13,20 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 
 ## Objectives
 1.  **Sales Growth**: Identify sales growth from 2019 to 2021.
-2.  
-3. **Compare actual sales vs target**: Compare 2021 Actual sales and target sales.
-4. <br>
-5. **Customer-wise**: Identified customer-wise sales and product-wise sales from 2019 to 2021.
-6. <br>
-7. **Top 10 Products with Sales Increase**: Identify which products had the biggest increase in sales from 2020 to 2021.
-8. <br>
-9. **Division Sales Report**: Create a report showing total revenue in 2020 and 2021 and how sales grew.
-10. <br>
-11. **Top and Bottom 5 Sold Products**: Identify the top 5 and bottom 5 products sold by quantity.
-12. <br>
-13. **New Products in 2021**: List new products Atliq started selling in 2021.
-14. <br>
-15. **Top 5 Sales Countries in 2021**: Identify the five countries with the highest sales in 2021<br>
+  
+2. **Compare actual sales vs target**: Compare 2021 Actual sales and target sales.
+
+3. **Customer-wise**: Identified customer-wise sales and product-wise sales from 2019 to 2021.
+
+4. **Top 10 Products with Sales Increase**: Identify which products had the biggest increase in sales from 2020 to 2021.
+
+5. **Division Sales Report**: Create a report showing total revenue in 2020 and 2021 and how sales grew.
+
+6. **Top and Bottom 5 Sold Products**: Identify the top 5 and bottom 5 products sold by quantity.
+
+7. **New Products in 2021**: List new products Atliq started selling in 2021.
+
+8. **Top 5 Sales Countries in 2021**: Identify the five countries with the highest sales in 2021<br>
 
 ## Sales Analysis Reports ##
 
@@ -126,38 +126,27 @@ Insights: Japan and New Zealand showed the highest profit margins, while Germany
 Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
 
 ## Overall Insights
-Customer Sales Performance:Notable growth in sales, especially in 2021 with a 304% increase. 
+**Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase. 
 
-Top 10 Products: Continued strong performance of key products from 2020 to 2021. 
+**Top 10 Products**: Continued strong performance of key products from 2020 to 2021. 
 
-Market Performance vs. Target: Insights into market performance relative to sales goals. 
+**Market Performance vs. Target**: Insights into market performance relative to sales goals. 
 
-New Products in 2021: Successful introduction of new products with strong sales. 
+**New Products in 2021**: Successful introduction of new products with strong sales. 
 
-Top 5 Countries in 2021: Identification of leading markets with robust sales figures. 
+**Top 5 Countries in 2021**: Identification of leading markets with robust sales figures. 
 
-Top and Bottom 5 Products: Focus on both high-performing and underperforming products for strategic adjustments. 
+**Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments. 
 
-Division Level Report: Impressive growth in the PC division, with substantial revenue increases. 
+**Division Level Report**: Impressive growth in the PC division, with substantial revenue increases. 
 
-Profit and Loss Reports: Detailed assessment of financial health across various dimensions. 
+**Profit and Loss Reports**: Detailed assessment of financial health across various dimensions. 
 
-Profit and Loss Reports by Markets: Insights into profitability across different regions, informing future strategies. 
+**Profit and Loss Reports by Markets**: Insights into profitability across different regions, informing future strategies. 
 
-Gross Margin % by Quarter: Understanding of regional performance changes, aiding in decision-making. 
+**Gross Margin % by Quarter**: Understanding of regional performance changes, aiding in decision-making. 
+
 
 
 This comprehensive overview serves as a foundation for further analysis and strategy formulation at Atliq Hardware.
-
-
-
-
-
-
-                
-                
-
-
-
-
 

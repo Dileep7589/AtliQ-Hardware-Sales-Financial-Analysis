@@ -25,7 +25,7 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 
 **Compare actual sales vs target**: Sales fell short by ~9.2% in 2021, indicating improvement areas.
 **Sales Growth**: Total sales increased from $87.5M (2019) to $598.9M (2021)
-Achieved 204% growth (2021 vs 2020)
+           Achieved 204% growth (2021 vs 2020)
                 
                 
 

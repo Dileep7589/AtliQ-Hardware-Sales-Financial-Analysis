@@ -12,11 +12,11 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 This project presents a comprehensive analysis of AtliQ Hardware’s sales and financial performance using historical data from 2019 to 2021. The goal is to derive meaningful business insights related to revenue growth, profitability, customer performance, and market trends.
 
 ## Objectives
-1. **Compare actual sales vs target**: Differentiate between actual sales and target sales.
+1. **Compare actual sales vs target**: Compare 2021 Actual sales and taregt sales.
 2. **Market and country-level performance**: Create a report to find market and country-level performance.
-3. **Customer-wise and product-wise sales**: Identified customer-wise sales and product-wise sales.
+3. **Customer-wise and product-wise sales**: Identified customer-wise sales and product-wise sales from 2019 to 2021.
 4. **Top 10 Products with Sales Increase**: Identify which products had the biggest increase in sales from 2020 to 2021.
-5. **Division Sales Report**: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
+5. **Division Sales Report**: Create a report showing total revenue in 2020 and 2021 and how sales grew.
 6. **Top and Bottom 5 Sold Products**: Identify the top 5 and bottom 5 products sold by quantity.
 7. **New Products in 2021**: List new products Atliq started selling in 2021.
 8. **Top 5 Sales Countries in 2021**: Identify the five countries with the highest sales in 2021

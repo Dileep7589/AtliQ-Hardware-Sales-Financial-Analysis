@@ -48,11 +48,11 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 
 6. **Top and Bottom 5 Sold Products** <br> 
 
-Top 5 Products by Quantity <br> 
+   Top 5 Products by Quantity <br> 
 
-   Insights: on best-performing products, with **"AQ Master wired x1 Ms"** leading. <br> 
+    Insights: on best-performing products, with **"AQ Master wired x1 Ms"** leading. <br> 
 
-Bottom 5 Products by Quantity <br> 
+   Bottom 5 Products by Quantity <br> 
 
    Insights: into underperforming products and considerations for adjustments.
 

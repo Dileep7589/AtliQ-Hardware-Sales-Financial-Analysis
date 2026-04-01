@@ -76,6 +76,55 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 
 
 
+## Financial Analysis ## 
+
+## Objectives
+Customer Net Sales Performance Report: Overview of revenue generated from customers.
+Market Performance vs. Sales Targets Comparison: Analysis of sales efforts against goals and market conditions.
+Yearly Profit and Loss (P&L) Report: Financial performance breakdown for each fiscal year.
+Quarterly Profit and Loss (P&L) Comparison: Financial performance trends throughout the year.
+Market-Specific Profit and Loss (P&L) Report: Performance breakdown for each market.
+Quarterly Gross Margin Percentage (GM%) by Location: Profitability view by geographic area.
+
+## Financial Analysis Reports
+
+Customer Net Sales Performance Report
+
+Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
+Market Performance vs. Sales Targets Comparison
+
+Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+Yearly Profit and Loss (P&L) Report
+
+Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+Quarterly Profit and Loss (P&L) Comparison
+
+Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.
+Market-Specific Profit and Loss (P&L) Report
+
+Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
+Quarterly Gross Margin Percentage (GM%) by Location
+
+Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
+
+## Overall Insights
+Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
+Top 10 Products: Continued strong performance of key products from 2020 to 2021.
+Market Performance vs. Target: Insights into market performance relative to sales goals.
+New Products in 2021: Successful introduction of new products with strong sales.
+Top 5 Countries in 2021: Identification of leading markets with robust sales figures.
+Top and Bottom 5 Products: Focus on both high-performing and underperforming products for strategic adjustments.
+Division Level Report: Impressive growth in the PC division, with substantial revenue increases.
+Profit and Loss Reports: Detailed assessment of financial health across various dimensions.
+Profit and Loss Reports by Markets: Insights into profitability across different regions, informing future strategies.
+Gross Margin % by Quarter: Understanding of regional performance changes, aiding in decision-making.
+
+This comprehensive overview serves as a foundation for further analysis and strategy formulation at Atliq Hardware.
+
+
+
+
+
 
                 
                 

@@ -41,14 +41,14 @@ Insights: The top ten products with significant sales increases, including the b
 
 **Division Sales Report** <br> 
 
-Insights:PCs sales increased from **$40.1 million in 2020** to **$165.8 million in 2021**. <br>
+Insights: PCs sales increased from **$40.1 million in 2020** to **$165.8 million in 2021**. <br>
 Accessories and peripherals grew from** $105.2 million to $338.4 million** (321.5% increase).<br>
 Networking and storage products surged from **$51.4 million to $94.7 million** (184.4% increase).
 
 **Top and Bottom 5 Sold Products** <br> 
 
 Top 5 Products by Quantity <br>
-Insights: on best-performing products, with **"AQ Master wired x1 Ms"** leading.
+Insights: on best-performing products, with **"AQ Master wired x1 Ms"** leading. <br>
 Bottom 5 Products by Quantity <br>
 Insights: into underperforming products and considerations for adjustments.
 

@@ -27,30 +27,38 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 insight: Total sales increased from **$87.5M (2019) to $598.9M (2021)** <br>
            Achieved **204% growth** (2021 vs 2020)
            
-**Compare actual vs target sales** <br> insight: Sales fell short by **~9.2% in 2021**, indicating improvement areas.
+**Compare actual vs target sales** <br> 
 
-**Customer-wise** <br> insight: the highest sales by **Amazon** in 2021 is **82.1M.** <br>
+insight: Sales fell short by **~9.2% in 2021**, indicating improvement areas.
 
-**Top 10 Products with Sales Increase** <br>
+**Customer-wise** <br> 
+
+insight: the highest sales by **Amazon** in 2021 is **82.1M.** <br>
+
+**Top 10 Products with Sales Increase** <br> 
+
 Insights: The top ten products with significant sales increases, including the best-seller **"AQ Electron 4 3600 Desktop processor"** and **"AQ Pen Drive DRC"**.
 
-**Division Sales Report** <br>
-Insights:
-PCs sales increased from **$40.1 million in 2020** to **$165.8 million in 2021**.
+**Division Sales Report** <br> 
+
+Insights:PCs sales increased from **$40.1 million in 2020** to **$165.8 million in 2021**.
 Accessories and peripherals grew from** $105.2 million to $338.4 million** (321.5% increase).
 Networking and storage products surged from **$51.4 million to $94.7 million** (184.4% increase).
 
-**Top and Bottom 5 Sold Products** <br>
+**Top and Bottom 5 Sold Products** <br> 
+
 Top 5 Products by Quantity: <br> Insights on best-performing products, with **"AQ Master wired x1 Ms"** leading.
 Bottom 5 Products by Quantity:<br> Insights into underperforming products and considerations for adjustments.
 
-**New Products in 2021** <br>
+**New Products in 2021** <br> 
+
 Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
 
-**Top 5 Sales Countries in 2021** <br>
-Insights:
-India led with $161.3 million in sales.
+**Top 5 Sales Countries in 2021** <br> 
+
+Insights: India led with $161.3 million in sales.
 Strong sales also noted in the USA, South Korea, the UK, and Canada.
+
 
 
 

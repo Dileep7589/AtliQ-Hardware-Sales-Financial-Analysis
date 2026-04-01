@@ -67,7 +67,7 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 
 10. **New Products in 2021** <br> 
 
-   Insights: **16** new products were added in 2021, with **"AQ Qwerty"** performing exceptionally well.
+    Insights: **16** new products were added in 2021, with **"AQ Qwerty"** performing exceptionally well.
 
 11. **Top 5 Sales Countries in 2021** <br> 
 

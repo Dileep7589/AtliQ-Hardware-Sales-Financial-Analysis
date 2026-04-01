@@ -62,9 +62,9 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 
 8. **Top 5 Sales Countries in 2021** <br> 
 
-   Insights:
-               **India** led with** $161.3 million** in sales. <br>
-               Strong sales were also noted in the USA, South Korea, the UK, and Canada.
+   Insights:<br> 
+  **India** led with** $161.3 million** in sales. <br>
+  Strong sales were also noted in the USA, South Korea, the UK, and Canada.
 
 
 

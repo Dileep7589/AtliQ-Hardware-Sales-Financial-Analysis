@@ -23,29 +23,29 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 
 ## Sales Analysis Reports ##
 
-**Sales Growth** <br>
+1. **Sales Growth** <br>
 insight: Total sales increased from **$87.5M (2019) to $598.9M (2021)** <br>
            Achieved **204% growth** (2021 vs 2020)
            
-**Compare actual vs target sales** <br> 
+2. **Compare actual vs target sales** <br> 
 
 insight: Sales fell short by **~9.2% in 2021**, indicating improvement areas.
 
-**Customer-wise** <br> 
+3. **Customer-wise** <br> 
 
 insight: the highest sales by **Amazon** in 2021 is **82.1M.** <br>
 
-**Top 10 Products with Sales Increase** <br> 
+4. **Top 10 Products with Sales Increase** <br> 
 
 Insights: The top ten products with significant sales increases, including the best-seller **"AQ Electron 4 3600 Desktop processor"** and **"AQ Pen Drive DRC"**.
 
-**Division Sales Report** <br> 
+5. **Division Sales Report** <br> 
 
 Insights: PCs sales increased from **$40.1 million in 2020** to **$165.8 million in 2021**. <br>
 Accessories and peripherals grew from **$105.2 million to $338.4 million** (321.5% increase).<br>
 Networking and storage products surged from **$51.4 million to $94.7 million** (184.4% increase).
 
-**Top and Bottom 5 Sold Products** <br> 
+6. **Top and Bottom 5 Sold Products** <br> 
 
 Top 5 Products by Quantity <br> 
 
@@ -55,11 +55,11 @@ Bottom 5 Products by Quantity <br>
 
 Insights: into underperforming products and considerations for adjustments.
 
-**New Products in 2021** <br> 
+7. **New Products in 2021** <br> 
 
 Insights: **16** new products were added in 2021, with **"AQ Qwerty"** performing exceptionally well.
 
-**Top 5 Sales Countries in 2021** <br> 
+8. **Top 5 Sales Countries in 2021** <br> 
 
 Insights: **India** led with** $161.3 million** in sales. <br>
 Strong sales were also noted in the USA, South Korea, the UK, and Canada.

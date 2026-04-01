@@ -38,22 +38,21 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
            
 3. **Compare actual vs target sales** <br> 
 
-   Insight:<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;Sales fell short by **~9.2% in 2021**, indicating improvement areas.
+   Insight: Sales fell short by **~9.2% in 2021**, indicating improvement areas.
 
 4. **Customer-wise** <br> 
 
-   Insight:<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;the highest sales by **Amazon** in 2021 is **82.1M.** <br>
+   Insight: the highest sales by **Amazon** in 2021 is **82.1M.** <br>
 
 5. **Top 10 Products with Sales Increase** <br> 
 
-   Insights:<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;The top ten products with significant sales increases, including the best-seller **"AQ Electron 4 3600 Desktop processor"** and **"AQ Pen Drive DRC"**.
+   Insights:
+   The top ten products with significant sales increases, including the best-seller **"AQ Electron 4 3600 Desktop processor"** and **"AQ Pen Drive DRC"**.
 
-6. **Division Sales Report** <br> 
+7. **Division Sales Report** <br> 
 
-   Insights:<br>
+   Insights:
+   
    &nbsp;&nbsp;&nbsp;&nbsp;PCs sales increased from **$40.1 million in 2020** to **$165.8 million in 2021**.
    
    &nbsp;&nbsp;&nbsp;&nbsp;Accessories and peripherals grew from **$105.2 million to $338.4 million** (321.5% increase).
@@ -63,23 +62,20 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 8. **Top and Bottom 5 Sold Products** <br> 
 
    Top 5 Products by Quantity <br> 
-    Insights:<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;on best-performing products, with **"AQ Master wired x1 Ms"** leading. <br> 
+    Insights: on best-performing products, with **"AQ Master wired x1 Ms"** leading. <br> 
 
    Bottom 5 Products by Quantity <br> 
-   Insights:<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;into underperforming products and considerations for adjustments.
+   Insights: into underperforming products and considerations for adjustments.
 
 9. **New Products in 2021** <br> 
 
-   Insights:<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;**16** new products were added in 2021, with **"AQ Qwerty"** performing exceptionally well.
+   Insights: **16** new products were added in 2021, with **"AQ Qwerty"** performing exceptionally well.
 
 10. **Top 5 Sales Countries in 2021** <br> 
 
-   Insights:<br> 
-   &nbsp;&nbsp;&nbsp;&nbsp; **India** led with**$161.3 million** in sales. <br>
-   &nbsp;&nbsp;&nbsp;&nbsp; Strong sales were also noted in the USA, South Korea, the UK, and Canada.
+   Insights: **India** led with**$161.3 million** in sales. 
+   
+   Strong sales were also noted in the USA, South Korea, the UK, and Canada.
 
 
 

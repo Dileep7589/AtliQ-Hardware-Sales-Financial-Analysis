@@ -79,7 +79,8 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 ## Financial Analysis ## 
 
 ## Objectives
-**Customer Net Sales Performance Report**: Overview of revenue generated from customers.
+**Customer Net Sales Performance Report**: Overview of revenue generated from customers. 
+
 **Market Performance vs. Sales Targets Comparison**: Analysis of sales efforts against goals and market conditions.
 **Yearly Profit and Loss (P&L) Report**: Financial performance breakdown for each fiscal year.
 **Quarterly Profit and Loss (P&L) Comparison**: Financial performance trends throughout the year.

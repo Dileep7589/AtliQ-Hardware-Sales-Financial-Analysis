@@ -51,15 +51,13 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
 
 7. **Division Sales Report** <br> 
 
-   Insights:
+   Insights: PCs sales increased from **$40.1 million in 2020** to **$165.8 million in 2021**.
    
-   &nbsp;&nbsp;&nbsp;&nbsp;PCs sales increased from **$40.1 million in 2020** to **$165.8 million in 2021**.
-   
-   &nbsp;&nbsp;&nbsp;&nbsp;Accessories and peripherals grew from **$105.2 million to $338.4 million** (321.5% increase).
-   
-   &nbsp;&nbsp;&nbsp;&nbsp;Networking and storage products surged from **$51.4 million to $94.7 million** (184.4% increase).
+   Accessories and peripherals grew from **$105.2 million to $338.4 million** (321.5% increase).
 
-8. **Top and Bottom 5 Sold Products** <br> 
+   Networking and storage products surged from **$51.4 million to $94.7 million** (184.4% increase).
+
+9. **Top and Bottom 5 Sold Products** <br> 
 
    Top 5 Products by Quantity <br> 
     Insights: on best-performing products, with **"AQ Master wired x1 Ms"** leading. <br> 
@@ -67,15 +65,15 @@ This project presents a comprehensive analysis of AtliQ Hardware’s sales and f
    Bottom 5 Products by Quantity <br> 
    Insights: into underperforming products and considerations for adjustments.
 
-9. **New Products in 2021** <br> 
+10. **New Products in 2021** <br> 
 
    Insights: **16** new products were added in 2021, with **"AQ Qwerty"** performing exceptionally well.
 
-10. **Top 5 Sales Countries in 2021** <br> 
+11. **Top 5 Sales Countries in 2021** <br> 
 
-   Insights: **India** led with**$161.3 million** in sales. 
+    Insights: **India** led with**$161.3 million** in sales. 
    
-   Strong sales were also noted in the USA, South Korea, the UK, and Canada.
+    Strong sales were also noted in the USA, South Korea, the UK, and Canada.
 
 
 
